@@ -1,0 +1,22 @@
+{
+  "name": "yumnanasir_student_management_systems",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.10",
+    "fund": "^1.0.0",
+    "inquirer": "^9.2.20",
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
